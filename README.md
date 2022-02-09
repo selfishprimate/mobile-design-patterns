@@ -1,2 +1,3 @@
-# mobile-design-patterns
-The best collection of mobile design patterns. 
+# Mobile Design Patterns Gallery
+
+_The best collection of mobile design patterns._
